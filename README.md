@@ -1,2 +1,2 @@
-# fritzing-parts
- My library of Fritzing parts.
+# My Fritzing parts
+
